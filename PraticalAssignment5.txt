@@ -1,0 +1,54 @@
+1. How a shop website works on the Internet
+
+A shop website works using a client-server model.
+The user opens a browser and enters the website address.
+The browser sends a request to the web server.
+The server responds with HTML, CSS, and JavaScript files.
+The browser displays the shop website to the user.
+
+Example:
+When a customer opens a grocery website, the browser loads product details from the server and displays them.
+
+2. Role of HTML, CSS, and JavaScript
+
+HTML creates the structure of the shop website
+
+CSS styles the website and makes it attractive
+
+JavaScript adds interactivity like buttons, cart actions, and dynamic updates
+
+Example:
+Clicking “Add to Cart” uses JavaScript to show a message.
+
+3. How product data is managed
+
+Product data is stored using arrays and objects or fetched from an API.
+JavaScript reads this data and displays it dynamically on the webpage.
+
+Example:
+An array stores product name and price, which is shown on the screen.
+
+4. What is web hosting
+
+Web hosting means storing website files on a server connected to the Internet.
+This allows users to access the website anytime using a browser.
+
+5. How a shop website can be hosted
+
+Steps:
+
+Create website files (HTML, CSS, JS)
+
+Choose a hosting platform
+
+Upload files to the server
+
+Access the website using a URL
+
+Example:
+GitHub Pages can host a simple shop website for free.
+
+6. Conclusion
+
+A shop website uses HTML, CSS, and JavaScript to display products and interact with users.
+Hosting makes the website available online for customers.
